@@ -2,7 +2,9 @@ body{
     font: 20px arial, serif
 }
 .navbar{
-    background-color: darkkhaki;
+    background-color: rgb(230, 188, 71);
+    font-size: 30px;
+    font: arial black
 }
 
 .quem-somos{
@@ -11,5 +13,15 @@ body{
 }
 
 .margin{
-    padding-bottom: 50px;
+    padding-bottom: 40px;
+    padding-top: 20px
+}
+.parceiros{
+    background-color: rgba(228, 162, 21, 0.842);
+}
+.b-footer{
+    background-color: rgb(26, 23, 23);
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 15px;
 }
